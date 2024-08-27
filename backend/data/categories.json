@@ -1,0 +1,33 @@
+[
+    {
+      "id": 201,
+      "name": "Technologie",
+      "description": "Artikel, die sich mit aktuellen technologischen Entwicklungen und Trends befassen."
+    },
+    {
+      "id": 202,
+      "name": "Webentwicklung",
+      "description": "Artikel und Tutorials zur Entwicklung von Websites, Webanwendungen und Frontend-Technologien."
+    },
+    {
+      "id": 203,
+      "name": "APIs",
+      "description": "Artikel und Tutorials zur Entwicklung von APIs und Webservices."
+    },
+    {
+      "id": 204,
+      "name": "Datenbanken",
+      "description": "Artikel und Ressourcen zur Datenbankentwicklung, -verwaltung und -optimierung."
+    },
+    {
+      "id": 205,
+      "name": "JavaScript",
+      "description": "Artikel, die sich mit JavaScript-Entwicklung, Sprachfunktionen und Best Practices befassen."
+    },
+    {
+      "id": 206,
+      "name": "CSS",
+      "description": "Artikel und Tutorials zur Gestaltung und Anpassung von CSS-Stilen und Layouts."
+    }
+  ]
+  

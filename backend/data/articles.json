@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "title": "Einführung in Node.js Maxi",
+    "content": "Node.js ist eine Laufzeitumgebung, die es ermöglicht, JavaScript serverseitig auszuführen. Es basiert auf der V8 JavaScript-Engine von Google und wird häufig für die Entwicklung von serverseitigen Anwendungen verwendet. Maxi",
+    "author": {
+      "id": 101,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "bio": "John ist ein erfahrener Softwareentwickler mit einem starken Hintergrund in der Webentwicklung und spezialisiert auf Node.js-Anwendungen."
+    },
+    "category": {
+      "id": 203,
+      "name": "APIs",
+      "description": "Artikel und Tutorials zur Entwicklung von APIs und Webservices."
+    },
+    "tags": [
+      "Node.js",
+      "JavaScript",
+      "Entwicklung"
+    ],
+    "comments": [
+      {
+        "id": 301,
+        "user": "Alice Smith",
+        "content": "Toller Artikel! Vielen Dank für die Einführung."
+      },
+      {
+        "id": 302,
+        "user": "Bob Johnson",
+        "content": "Sehr informativ. Ich freue mich auf mehr Artikel über Node.js."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Grundlagen der Webentwicklung",
+    "content": "Die Webentwicklung umfasst verschiedene Technologien wie HTML, CSS und JavaScript, die verwendet werden, um interaktive und ansprechende Websites zu erstellen.",
+    "author": {
+      "id": 102,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "bio": "Jane ist eine leidenschaftliche Webentwicklerin und Bloggerin, die gerne ihr Wissen und ihre Erfahrungen teilt."
+    },
+    "category": {
+      "id": 202,
+      "name": "Webentwicklung",
+      "description": "Artikel und Tutorials zur Entwicklung von Websites, Webanwendungen und Frontend-Technologien."
+    },
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Webentwicklung"
+    ],
+    "comments": [
+      {
+        "id": 303,
+        "user": "Charlie Brown",
+        "content": "Danke für diesen hilfreichen Überblick!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "JavaScript-Promises erklärt",
+    "content": "Promises sind ein asynchrones Programmiermuster in JavaScript, das es ermöglicht, asynchrone Operationen sequenziell zu verketten und Fehler effizient zu behandeln.",
+    "author": {
+      "id": 103,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "bio": "Alice ist eine erfahrene JavaScript-Entwicklerin und Tech-Bloggerin, die sich auf moderne Webtechnologien spezialisiert hat."
+    },
+    "category": {
+      "id": 205,
+      "name": "JavaScript",
+      "description": "Artikel, die sich mit JavaScript-Entwicklung, Sprachfunktionen und Best Practices befassen."
+    },
+    "tags": [
+      "JavaScript",
+      "Promises",
+      "Asynchrone Programmierung"
+    ],
+    "comments": [
+      {
+        "id": 304,
+        "user": "David Miller",
+        "content": "Sehr gut erklärt! Danke für diesen Beitrag."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Einführung in RESTful APIs",
+    "content": "RESTful APIs sind ein architektonischer Stil für die Entwicklung von Webdiensten, der auf dem Konzept von Ressourcen und HTTP-Methoden basiert.",
+    "author": {
+      "id": 104,
+      "name": "Bob Williams",
+      "email": "bob.williams@example.com",
+      "bio": "Bob ist ein erfahrener Webentwickler und Softwarearchitekt, der sich auf die Entwicklung von RESTful APIs spezialisiert hat."
+    },
+    "category": {
+      "id": 203,
+      "name": "APIs",
+      "description": "Artikel und Tutorials zur Entwicklung von APIs und Webservices."
+    },
+    "tags": [
+      "APIs",
+      "REST",
+      "Entwicklung"
+    ],
+    "comments": []
+  },
+  {
+    "id": 5,
+    "title": "Die Bedeutung von Datenbanken",
+    "content": "Datenbanken sind wesentliche Bestandteile von Anwendungen, die verwendet werden, um strukturierte Daten effizient zu speichern, abzurufen und zu verwalten.",
+    "author": {
+      "id": 105,
+      "name": "Eva Brown",
+      "email": "eva.brown@example.com",
+      "bio": "Eva ist eine Datenbank-Expertin und Softwarearchitektin mit langjähriger Erfahrung in der Entwicklung und Verwaltung von Datenbanken."
+    },
+    "category": {
+      "id": 204,
+      "name": "Datenbanken",
+      "description": "Artikel und Ressourcen zur Datenbankentwicklung, -verwaltung und -optimierung."
+    },
+    "tags": [
+      "Datenbanken",
+      "SQL",
+      "NoSQL",
+      "Entwicklung"
+    ],
+    "comments": [
+      {
+        "id": 305,
+        "user": "Frank Wilson",
+        "content": "Sehr interessanter Artikel! Ich habe viel gelernt."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Einführung in CSS-Grids",
+    "content": "CSS-Grids sind eine leistungsstarke Layout-Technik in CSS, die es ermöglicht, komplexe Layouts mit einem rasterbasierten Ansatz zu erstellen.",
+    "author": {
+      "id": 106,
+      "name": "Michael Lee",
+      "email": "michael.lee@example.com",
+      "bio": "Michael ist ein Frontend-Entwickler und UI-Designer mit einem Schwerpunkt auf CSS-Technologien und modernen Webdesign-Prinzipien."
+    },
+    "category": {
+      "id": 206,
+      "name": "CSS",
+      "description": "Artikel und Tutorials zur Gestaltung und Anpassung von CSS-Stilen und Layouts."
+    },
+    "tags": [
+      "CSS",
+      "Layout",
+      "Webdesign"
+    ],
+    "comments": []
+  }
+]
